@@ -9,7 +9,7 @@ draft = false
     Just indent the content to be even with the text of the bullet
     point, rather than the bullet itself.
 
-    ```shell
+    ```sh
     ls -l
     ```
 -   Here's the second bullet item.
